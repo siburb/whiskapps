@@ -1,0 +1,28 @@
+{
+  "apps": [
+    {
+      "name" : "ColourColor",
+      "url" : "",
+      "description" : "",
+      "iconUrl" : ""
+    }, 
+        {
+      "name" : "Spingredients",
+      "url" : "",
+      "description" : "",
+      "iconUrl" : ""
+    },
+        {
+      "name" : "notCacti - Water & Posture",
+      "url" : "",
+      "description" : "",
+      "iconUrl" : ""
+    },
+        {
+      "name" : "BrowserHub - multi-browser launcher",
+      "url" : "",
+      "description" : "",
+      "iconUrl" : ""
+    }
+  ]
+}

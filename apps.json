@@ -2,27 +2,27 @@
   "apps": [
     {
       "name" : "ColourColor",
-      "url" : "",
+      "url" : "https://itunes.apple.com/us/app/colourcolor/id623730507?mt=8&uo=4&at=10l5YJ",
       "description" : "",
-      "iconUrl" : ""
+      "iconUrl" : "./icons/colourcolor.png"
     }, 
         {
-      "name" : "Spingredients",
-      "url" : "",
+      "name" : "Spingredients - Cooking & Recipe Inspiration",
+      "url" : "https://itunes.apple.com/us/app/spingredients-cooking-recipe/id415115813?mt=8&uo=4&at=10l5YJ",
       "description" : "",
-      "iconUrl" : ""
+      "iconUrl" : "./icons/spingredients.png"
     },
         {
       "name" : "notCacti - Water & Posture",
-      "url" : "",
+      "url" : "https://itunes.apple.com/us/app/not-cacti-water-posture/id463154222?mt=8&uo=4&at=10l5YJ",
       "description" : "",
-      "iconUrl" : ""
+      "iconUrl" : "./icons/notcacti.png"
     },
         {
       "name" : "BrowserHub - multi-browser launcher",
-      "url" : "",
+      "url" : "https://itunes.apple.com/us/app/browser-hub/id717815967?mt=8&uo=4&at=10l5YJ",
       "description" : "",
-      "iconUrl" : ""
+      "iconUrl" : "./icons/browserhub.png"
     }
   ]
 }

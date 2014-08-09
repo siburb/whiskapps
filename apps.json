@@ -3,19 +3,19 @@
     {
       "name" : "ColourColor",
       "url" : "https://itunes.apple.com/us/app/colourcolor/id623730507?mt=8&uo=4&at=10l5YJ",
-      "description" : "",
+      "description" : "ColourColor is a game about colour. Or color. There’s no judgement here.",
       "iconUrl" : "./icons/colourcolor.png"
     }, 
         {
       "name" : "Spingredients - Cooking & Recipe Inspiration",
       "url" : "https://itunes.apple.com/us/app/spingredients-cooking-recipe/id415115813?mt=8&uo=4&at=10l5YJ",
-      "description" : "",
+      "description" : "Create your new signature dish with Spingredients! Select one key ingredient, and Spingredients will select fantastic flavor combinations.",
       "iconUrl" : "./icons/spingredients.png"
     },
         {
       "name" : "notCacti - Water & Posture",
       "url" : "https://itunes.apple.com/us/app/not-cacti-water-posture/id463154222?mt=8&uo=4&at=10l5YJ",
-      "description" : "",
+      "description" : "Sitting slumped over a keyboard all day and consuming nothing but coffee and sandwiches is not an ideal way to treat your body.",
       "iconUrl" : "./icons/notcacti.png"
     },
         {

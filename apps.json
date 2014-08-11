@@ -7,19 +7,22 @@
       "iconUrl" : "/icons/colourcolor.png"
     }, 
         {
-      "name" : "Spingredients - Cooking & Recipe Inspiration",
+      "name" : "Spingredients",
+      "subtitle" : "Cooking & Recipe Inspiration",
       "url" : "https://itunes.apple.com/us/app/spingredients-cooking-recipe/id415115813?mt=8&uo=4&at=10l5YJ",
       "description" : "Create your new signature dish with Spingredients! Select one key ingredient, and Spingredients will select fantastic flavor combinations.",
       "iconUrl" : "/icons/spingredients.png"
     },
         {
-      "name" : "notCacti - Water & Posture",
+      "name" : "notCacti",
+      "subtitle" : "Water & Posture",
       "url" : "https://itunes.apple.com/us/app/not-cacti-water-posture/id463154222?mt=8&uo=4&at=10l5YJ",
       "description" : "Sitting slumped over a keyboard all day and consuming nothing but coffee and sandwiches is not an ideal way to treat your body.",
       "iconUrl" : "/icons/notcacti.png"
     },
         {
-      "name" : "BrowserHub - multi-browser launcher",
+      "name" : "BrowserHub",
+      "subtitle" : "Multi-Browser Launcher",
       "url" : "https://itunes.apple.com/us/app/browser-hub/id717815967?mt=8&uo=4&at=10l5YJ",
       "description" : "",
       "iconUrl" : "/icons/browserhub.png"

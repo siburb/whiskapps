@@ -1,9 +1,9 @@
 {
   "apps": [
     {
-      "name" : "CLP+",
+      "name" : "CLP+ Clipboard Manager",
       "url" : "https://itunes.apple.com/au/app/clp+-copy-paste-clipboard/id933445978?mt=8&uo=4&at=10l5YJ&ct=morebywhisk",
-      "description" : "Clipboard Manager & Notification Center Widget. Copy text from any app, and see it appear in Notification Center. Tap items to copy them back to your clipboard. CLP+ also recognizes content - e.g. URLs & email addresses - so you can use them straight from the app.",
+      "description" : "Copy text from any app, and see it appear in Notification Center. Tap an item to copy back to clipboard. CLP+ recognizes content e.g. URLs & email addresses.",
       "iconUrl" : "/icons/clp.png"
     },
     {

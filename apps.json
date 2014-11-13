@@ -1,6 +1,12 @@
 {
   "apps": [
     {
+      "name" : "CLP+",
+      "url" : "https://itunes.apple.com/au/app/clp+-copy-paste-clipboard/id933445978?mt=8&uo=4&at=10l5YJ&ct=morebywhisk",
+      "description" : "Clipboard Manager & Notification Center Widget. Copy text from any app, and see it appear in Notification Center. Tap items to copy them back to your clipboard. CLP+ also recognizes content - e.g. URLs & email addresses - so you can use them straight from the app.",
+      "iconUrl" : "/icons/clp.png"
+    },
+    {
       "name" : "ColourColor",
       "url" : "https://itunes.apple.com/us/app/colourcolor/id623730507?mt=8&uo=4&at=10l5YJ&ct=morebywhisk",
       "description" : "ColourColor is a game about colour. Or color. There’s no judgement here.",

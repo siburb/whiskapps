@@ -7,38 +7,31 @@
       "iconUrl" : "/icons/clp.png"
     },
     {
-      "name" : "ColourColor",
-      "url" : "https://itunes.apple.com/us/app/colourcolor/id623730507?mt=8&uo=4&at=10l5YJ&ct=morebywhisk",
-      "description" : "ColourColor is a game about colour. Or color. There’s no judgement here.",
-      "iconUrl" : "/icons/colourcolor.png"
-    }, 
-        {
       "name" : "Spingredients",
       "subtitle" : "Cooking & Recipe Inspiration",
       "url" : "https://itunes.apple.com/us/app/spingredients-cooking-recipe/id415115813?mt=8&uo=4&at=10l5YJ&ct=morebywhisk",
       "description" : "Create your new signature dish with Spingredients! Select one key ingredient, and Spingredients will select fantastic flavor combinations.",
       "iconUrl" : "/icons/spingredients3_0.png"
     },
-        {
+    {
+      "name" : "ColourColor",
+      "url" : "https://itunes.apple.com/us/app/colourcolor/id623730507?mt=8&uo=4&at=10l5YJ&ct=morebywhisk",
+      "description" : "ColourColor is a game about colour. Or color. There’s no judgement here.",
+      "iconUrl" : "/icons/colourcolor.png"
+    }, 
+    {
       "name" : "notCacti",
       "subtitle" : "Water & Posture",
       "url" : "https://itunes.apple.com/us/app/not-cacti-water-posture/id463154222?mt=8&uo=4&at=10l5YJ&ct=morebywhisk",
       "description" : "Sitting slumped over a keyboard all day and consuming nothing but coffee and sandwiches is not an ideal way to treat your body.",
       "iconUrl" : "/icons/notcacti2_0.png"
     },
-        {
+    {
       "name" : "BrowserHub",
       "subtitle" : "Multi-Browser Launcher",
       "url" : "https://itunes.apple.com/us/app/browser-hub/id717815967?mt=8&uo=4&at=10l5YJ&ct=morebywhisk",
       "description" : "You're a web developer, web designer, website tester or website owner - now you can easily test your site on a range of iOS browsers.",
       "iconUrl" : "/icons/browserhub1_1.png"
-    },
-        {
-      "name" : "YoBoard",
-      "subtitle" : "The Yo! Keyboard!",
-      "url" : "https://itunes.apple.com/us/app/yoboard-the-yo-keyboard!/id920840939?mt=8&uo=4&at=10l5YJ&ct=morebywhisk",
-      "description" : "Why? Because Yo! This is an iOS8 keyboard for when all you need to say is Yo!",
-      "iconUrl" : "/icons/yoboard1_0.png"
     }
   ]
 }
